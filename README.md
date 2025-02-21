@@ -1,2 +1,2 @@
 # Script-Colection
-LOL
+All Script that i use and i found
